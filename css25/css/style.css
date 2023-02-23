@@ -1,0 +1,13 @@
+body {
+    background-color: gray;
+}
+
+.block {
+    height: 250px;
+    width: 250px;
+    background-color: rgb(9, 9, 9);
+}
+
+.block {
+    transform: rotate(30deg) translateX(10vw);
+}
